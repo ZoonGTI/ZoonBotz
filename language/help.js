@@ -2,6 +2,7 @@ exports.menu = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
+Join group comunity ZoonBot: https://chat.whatsapp.com/HU2zvhmTdCrDCITMPqqpoT
 
   *INFO BOT*
   👑 Creator : *ZoonGT*
@@ -143,7 +144,11 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
  › #husbu
  › #neko
  › #shinobu
-
+ › #waifus 
+ › #nekos 
+ › #trap 
+ › #blowjob 
+  
  ❏ *Textpro Menu*
  › #3dchristmas
  › #3ddeepsea
@@ -443,13 +448,13 @@ exports.list = (pushname) => {
 }
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`Selamat datang
+	return`Welcome
 `
 }
 
 //—————「 Leave 」—————//
 exports.leave = () => {
-	return`Selamat Tinggal
+	return`Byeee
 `
 }
 
@@ -461,15 +466,9 @@ exports.donasi  = (ownernomer) => {
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
- https://trakteer.id/hijau-Bot/tip
+
 Thanks!
-
-——————「 *SEWA* 」——————
-
-  *_SEWA BOT_* 
-  *❏* Sewa Bot 7k (1 bulan)
-  *❏* Sewa Bot 15k (2 bulan)
-  *❏* Sewa Bot 25k (Permanen)
+ Trakteer: https://trakteer.id/hijau-Bot/tip
 
   *Contact person Owner* :
   wa.me/${ownernomer}
