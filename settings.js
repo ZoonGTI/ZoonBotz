@@ -11,30 +11,30 @@ global.APIKeys = {
 
 //---------( SETTING )---------//
 global.owner = ['6283822910734']
-global.premium = ['6282279915237']
+global.premium = ['6283822910734']
 global.ownernomer = '6283822910734'
 global.ownername = 'ZoonGT'
 global.botname = 'ZoonBot'
-global.footer = 'by ZoonGT'
+global.footer = 'By ZoonGT'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© ZoonBot'
-global.author = '2022'
+global.packname = 'By ZoonGT'
+global.author = '© ZoonBot'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/ZoonGT'
+global.youtube = 'https://youtube.com/channel/UCjzlh0Uhz8KJYZnZ0BVN35w'
 global.ig = 'https://instagram.com'
 global.mygc = 'https://chat.whatsapp.com/HU2zvhmTdCrDCITMPqqpoT'
 global.myweb = 'https://chat.whatsapp.com/HU2zvhmTdCrDCITMPqqpoT'
-global.email = 'apaajajepo@gmail.com'
+global.email = 'apaaja@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 25,
 }
 
 //---------( RANDOM IMAGE )---------//
